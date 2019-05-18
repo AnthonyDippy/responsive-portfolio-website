@@ -7,4 +7,3 @@
 ## Outline
 
 [Node Sass Fix](https://github.com/marcosbozzani/node-sass/blob/bug-vscode-watch/lib/render.js)
-
